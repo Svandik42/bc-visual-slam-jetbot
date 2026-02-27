@@ -22,3 +22,4 @@ Hlavním cílem práce je zprovoznit na platformě NVIDIA Jetson Nano spolehliv�
 
 ## Aktuální stav projektu
  V současné době probíhá teoretická rešerše SLAM algoritmů, architektury ROS 2 a příprava vývojového prostředí.
+ Spoelečně s tím pracuji na praktické implementaci a základní konfiguraci prostředí **ROS 2** na mikropočítači Jetson Nano.
