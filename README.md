@@ -21,4 +21,4 @@ Hlavním cílem práce je zprovoznit na platformě NVIDIA Jetson Nano spolehliv�
 * **Klíčové ROS 2 balíčky:** `nav2`, `rtabmap_ros`, `rosbridge_suite`
 
 ## Aktuální stav projektu
-🚧 **Work in Progress** - V současné době probíhá teoretická rešerše SLAM algoritmů, architektury ROS 2 a příprava vývojového prostředí.
+ V současné době probíhá teoretická rešerše SLAM algoritmů, architektury ROS 2 a příprava vývojového prostředí.
